@@ -10,5 +10,6 @@ int main()
     cout << "Autor: Nayeli Malca Zarate\n";
     cout << "Autor: Carlos ManueL Evangelista\n";
     cout << "Autor: Jhosbel Flores Rojas\n ";
+    cout << "Autor: Luis Enrique Piedra Aguirre\n";
 }
 
