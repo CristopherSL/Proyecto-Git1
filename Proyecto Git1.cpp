@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    cout << "Representantes\n";
     cout << "Hola, presentate por favor\n";
     cout << "Autor: Cristopher Soto\n";
     cout << "Autor: Nayeli Malca Zarate\n";
