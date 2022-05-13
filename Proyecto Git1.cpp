@@ -7,5 +7,6 @@ int main()
 {
     cout << "Hola, presentate por favor\n";
     cout << "Autor: Cristopher Soto\n";
+    cout<< "CoAutor: Alejandro Chuy Zhou"<<endl;
 }
 
